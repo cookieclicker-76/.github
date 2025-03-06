@@ -31,37 +31,37 @@ To enter cheats, you need to access the developer console in your browser:
 
 Here are the most useful cheats to enhance your cookie empire:
 
-🍪 Unlimited Cookies
+### 🍪 Unlimited Cookies
 
 Gain a huge number of cookies instantly:
 
 `Game.cookies = 999999999999;`
 
-⚡ Faster Cookie Production
+### ⚡ Faster Cookie Production
 
 Boost your cookie generation rate:
 
 `Game.cookiesPerClick = 999999;`
 
-🔥 Unlock All Upgrades & Buildings
+### 🔥 Unlock All Upgrades & Buildings
 
 Get access to all buildings and upgrades:
 
 `Game.UpgradesById.forEach(upg => upg.unlock());`
 
-💎 Get Golden Cookies Instantly
+### 💎 Get Golden Cookies Instantly
 
 Summon a golden cookie for huge bonuses:
 
 `Game.goldenCookie.click();`
 
-⏳ Speed Up Game Time
+### ⏳ Speed Up Game Time
 
 Make the game run 1000 times faster:
 
 `Game.fps = 1000;`
 
-🔄 Auto-Clicker Cheat
+### 🔄 Auto-Clicker Cheat
 
 Click automatically without lifting a finger:
 
